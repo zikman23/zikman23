@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Ahmad Karimi and I am currently enrolled in the MIT xPRO Full Stack Development course. Here you will find a portfolio of some of the work I've completed for this course, as well as some other projects I am currently working on.  
 
 <!--
 **zikman23/zikman23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
